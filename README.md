@@ -1,4 +1,4 @@
-# 📋 Miscreant
+## 📋 Miscreant
 
 **Miscreant** is a Chrome extension that emulates typing text directly from your clipboard. It simplifies pasting by mimicking a natural typing effect—handy for situations where manual typing is preferable (e.g., bypassing certain paste restrictions).
 
