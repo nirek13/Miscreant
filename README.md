@@ -10,7 +10,7 @@
 2. Open Chrome and go to `chrome://extensions/`.
 3. Enable **Developer mode** (toggle at the top-right).
 4. Click **Load unpacked** and select the extension directory.
-
+s
 ---
 
 ## 🔐 Permissions
